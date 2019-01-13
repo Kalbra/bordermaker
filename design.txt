@@ -1,0 +1,35 @@
+text="hello world", down_left_cornor=" ", down_right_cornor=" ", up_left_cornor=" ", up_right_cornor=" ", up_area="_", down_area=" ", left_area="{", right_area="}"
+
+ ___________
+{hello world}
+
+
+text="hello world", down_left_cornor="+", down_right_cornor="+", up_left_cornor="+", up_right_cornor="+", up_area="+", down_area="+", left_area="+", right_area="+"
+
++++++++++++++
++hello world+
++++++++++++++
+
+text=" hello world ", down_left_cornor=" ", down_right_cornor=" ", up_left_cornor="_", up_right_cornor="_", up_area="_", down_area=" ", left_area="I", right_area="I"
+
+_______________
+I hello world I
+
+
+text=" hello world ", down_left_cornor=" ", down_right_cornor=" ", up_left_cornor=" ", up_right_cornor=" ", up_area=" ", down_area=" ", left_area=">", right_area="<"
+
+
+> hello world <
+
+
+text=" hello world ", down_left_cornor="\\", down_right_cornor="/", up_left_cornor=" ", up_right_cornor=" ", up_area="_", down_area="_", left_area="[", right_area="]"
+
+ _____________
+[ hello world ]
+\_____________/
+
+text=" hello world ", down_left_cornor="\\", down_right_cornor="/", up_left_cornor="/", up_right_cornor="\\", up_area="-", down_area="-", left_area="|", right_area="|"
+
+/-------------\
+| hello world |
+\-------------/
